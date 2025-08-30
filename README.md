@@ -26,6 +26,7 @@ Outside the terminal? I’ve captained cricket teams, boxed at state level, and 
 
 Here’s to blending **research + engineering + a bit of fun** into everything I build 🚀  
 
+---
 
 ### 🧰 Tech Stack
 **Languages:** Python · C++ · Java · SQL · C#  
