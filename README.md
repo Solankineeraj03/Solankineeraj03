@@ -8,12 +8,9 @@ Federated Learning • LLMs • Cloud-Native Systems • MLOps
 ---
 
 ## 👨‍💻 About Me
-I’m Neeraj, a Machine Learning Engineer specializing in **federated learning, LLMs, and cloud-native AI systems**.  
-Currently pursuing my **M.S. in Computer Science at UIC**, I bridge **research and real-world deployment** by building scalable, production-ready AI systems.  
-
-I’ve shipped critical ML systems at **Deloitte**, conducted research on **communication-efficient federated learning** at **UIC**, and worked on production ML pipelines during my time at **Happiest Minds**.  
-
-Outside work, I’m also a cricket team captain, a two-time national Rollball champion, and a state-level boxer. 🏏🥊  
+Engineer. Researcher. Builder.  
+I design and deploy **AI systems that scale**, from intelligent applications to robust ML infrastructure.  
+When I’m not working on models or systems, you’ll probably find me on the cricket field or in the boxing ring — still chasing performance, just in a different arena.  
 
 ---
 
