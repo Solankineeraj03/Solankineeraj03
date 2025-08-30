@@ -1,90 +1,105 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Neeraj Solanki 👋</h1>
-<p align="center">
-  <a href="mailto:neerajsolanki2000@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/neeraj-solanki-8266211a6">LinkedIn</a> •
-  <a href="https://github.com/Solankineeraj03">GitHub</a>
-</p>
+<div align="center">
+  <!-- Optional profile image (uncomment after you upload assets/profile.jpg) -->
+  <!-- <img src="assets/profile.jpg" alt="Neeraj Solanki" width="160" style="border-radius:50%; margin-bottom:8px;" /> -->
+  
+  <h1>Hi, I'm Neeraj Solanki 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Solankineeraj03?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Solankineeraj03?affiliations=OWNER&style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=Solankineeraj03&style=flat&label=Profile+Views" />
-</p>
+  <p>
+    <a href="mailto:neerajsolanki2000@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/neeraj-solanki-8266211a6">LinkedIn</a> ·
+    <a href="https://github.com/Solankineeraj03">GitHub</a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/github/followers/Solankineeraj03?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/stars/Solankineeraj03?affiliations=OWNER&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Solankineeraj03&style=flat&label=Profile+Views" />
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me  
+## About Me
 
 Once upon a debug log… I started as a curious kid breaking things just to fix them again.  
-Now, I’m a **Machine Learning Engineer & Researcher** working on everything from **LLMs and federated learning** to building **production-grade ML pipelines** that actually survive in the wild.  
-
-By day, I’m pursuing my **M.S. in Computer Science at UIC (2024–2026)**, diving deep into AI systems, MLOps, and cloud-native deployments.  
-By night (and sometimes weekends), you’ll find me hacking on projects like **Converso (LLM Chatbot)** or **ChurnGuard (SaaS Prediction)**, pushing code with Docker and Kubernetes, or scribbling ideas for my next paper.  
-
-Outside the terminal? I’ve captained cricket teams, boxed at state level, and somehow convinced friends that I can cook 🍳 (still debatable).  
-
-Here’s to blending **research + engineering + a bit of fun** into everything I build 🚀  
+Now I’m a **Machine Learning Engineer & Researcher** working across **LLMs, RAG, federated learning**, and **cloud-native ML systems** that survive in production.  
+By day I’m pursuing my **M.S. in CS @ UIC (2024–2026)**; by night I tinker with **Converso (LLM Chatbot)** and **ChurnGuard (SaaS Churn)**—shipped with Docker, k8s, FastAPI, and proper monitoring.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python · C++ · Java · SQL · C#  
-**ML/AI:** PyTorch · TensorFlow · scikit-learn · XGBoost · SHAP · LangChain · Transformers  
-**Cloud/DevOps:** AWS · Azure · Docker · Kubernetes · GitHub Actions · Jenkins · Prometheus · MLflow  
-**Data:** PostgreSQL · MySQL · MongoDB · Cassandra · Cosmos DB
+## Tech Stack
+
+- **Languages:** Python · C++ · Java · SQL · C#
+- **ML/AI:** PyTorch · TensorFlow · scikit-learn · XGBoost · SHAP · LangChain
+- **Cloud/DevOps:** Azure · AWS · Docker · Kubernetes · GitHub Actions · Prometheus · MLflow
+- **Data:** PostgreSQL · MySQL · MongoDB · Cassandra · Cosmos DB
 
 ---
 
-### 🚀 Featured Projects
-<a href="https://github.com/Solankineeraj03/Converso-LLM-Chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Solankineeraj03&repo=Converso-LLM-Chatbot" />
-</a>
-<a href="https://github.com/Solankineeraj03/ChurnGuard-SaaS-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Solankineeraj03&repo=ChurnGuard-SaaS-Prediction" />
-</a>
+## Education
 
-#### More builds (from my resume)
-- **ChronoTalk (AI History Chatbot):** Python, TensorFlow, OpenAI GPT-3, spaCy, Flask, React — boosted engagement **+40%** and retention **+30%**  
-- **Epileptic Seizure Detection (CNN):** TensorFlow/Keras + LSTM — **90%+ accuracy** with clinical visual analytics  
-- **SmartPayAPP (Digital Wallet):** Next.js, Express, PostgreSQL, Tailwind, TypeScript — **–35% API latency**, **+40% throughput**
+**University of Illinois at Chicago** — *M.S. in Computer Science* (Aug 2024 – May 2026)  
+**MIT – World Peace University** — *B.Tech in Computer Engineering* · CGPA: 8.86
 
 ---
 
-### 💼 Experience
-**Machine Learning Researcher — UIC (Sep 2024–Present)**  
-- Federated learning with communication-efficient updates (MSB–LSB, adaptive gradient freezing) — **up to 80%** overhead reduction  
-- Early-exit neural networks for adaptive edge inference — energy savings without accuracy loss  
-- Weightless Neural Networks (WNNs) for lightweight healthcare & biosignal AI  
-- Active learning with uncertainty sampling for faster convergence
+## Experience
 
-**Machine Learning Engineer — Deloitte USI (Jan 2022–Jul 2024)**  
-- Production anomaly detection (RF, Isolation Forest, Transformers) — **97% precision**  
-- Real-time log/behavior analytics across 30+ data sources — **–40%** detection latency  
-- Threat modeling & root-cause analysis aligned to **MITRE ATT&CK**
+**Machine Learning Researcher — University of Illinois at Chicago (Sep 2024 – Present)**  
+- Built **federated learning** with MSB–LSB + adaptive gradient freezing (↓ comms up to **80%**)  
+- Designed **early-exit** neural networks for energy-efficient edge inference  
+- Explored **Weightless Neural Networks** (WNNs) for lightweight healthcare/signal AI  
+- Added **active learning** (uncertainty sampling) to speed convergence with scarce labels
 
-**Machine Learning Intern — Happiest Minds (Mar 2021–Jun 2022)**  
-- Deployed anomaly detection & predictive models — **+30%** reliability  
-- Scalable data pipelines/feature engineering — **–25%** training time  
-- Served models via REST + Docker for production scale
+**Software Engineer-I — Deloitte USI (Sep 2021 – Present)**  
+- Led **Azure Network Copilot** (LLM/RAG) → **35%** faster troubleshooting  
+- Delivered **C# microservices** integrating Azure Resource Graph, Kusto, AVNM  
+- Tuned **Cosmos DB** partitions/indexes (↓ latency **40%**);  **DevOps & CI/CD** for **99.9%** uptime  
+- Cross-functional ownership: data engineering, security, product
 
----
-
-### 🎓 Education
-- **M.S., Computer Science — University of Illinois at Chicago (2024–2026)**
-- **B.Tech, Computer Engineering — MIT World Peace University (CGPA: 8.86)**
+**Software Engineer Intern — Happiest Minds (Jul 2019 – Sep 2021)**  
+- Production modules in **React, Groovy, Go, Java** (10K+ DAU)  
+- Optimized **Cassandra (DataStax)** + **SOLR** (↓ read latency **25%**)  
+- Built **deep pagination APIs** for large-scale mining (↓ processing **20%**)
 
 ---
 
-### 📝 Publications & Leadership
-- **ATM-Net:** Adaptive Termination & Multi-Precision Neural Networks for Energy-Harvested Edge Intelligence — *HPCA 2025*  
-- **SenGuard:** In-Sensor Privacy-Preserving Processing for Smart Imaging — *GLSVLSI 2025*  
-- **OrganoSense:** Biosignal Neural Processing via Organic Circuits — *MWSCAS 2025*  
-- Captain, UIC & Deloitte cricket (5 tournament wins); 2-time National Rollball champion; State-level boxer
+## Selected Projects
+
+**Converso — LLM-Powered Chatbot Platform**  
+- Production-grade **RAG** with LangChain + OpenAI, FAISS; Docker + Kubernetes on AWS  
+- Scaled to **50K+ daily queries** with 99.9% uptime
+
+**RecoTrack — Real-Time Recommendation Engine**  
+- Collaborative filtering + XGBoost; Flask APIs; **+18% CTR** with React front-end integration
+
+**FraudShield — Transaction Monitoring**  
+- Kafka + PySpark + Random Forest for streaming fraud detection; **95% accuracy**, <200ms latency
+
+**ChurnGuard — SaaS Churn Prediction**  
+- FastAPI service with **XGBoost** + **SHAP**; **Prometheus** + **MLflow**; **ROC-AUC 0.89**
+
+**Smart WiFi Attendance**  
+- ASP.NET MVC + SQL Server + Android; automated reports; **80%** fewer manual errors
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Highlights
+
+<div align="left">
+  <a href="https://github.com/Solankineeraj03/ChurnGuard-SaaS-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Solankineeraj03&repo=ChurnGuard-SaaS-Prediction" />
+  </a>
+  <a href="https://github.com/Solankineeraj03/Converso-LLM-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Solankineeraj03&repo=Converso-LLM-Chatbot" />
+  </a>
+</div>
+
+---
+
+## Stats
+
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Solankineeraj03&show_icons=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solankineeraj03&layout=compact&langs_count=8" />
@@ -95,7 +110,7 @@ Here’s to blending **research + engineering + a bit of fun** into everything I
 
 ---
 
-### 📬 Contact
+### Contact
 - Email: <a href="mailto:neerajsolanki2000@gmail.com">neerajsolanki2000@gmail.com</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/neeraj-solanki-8266211a6">neeraj-solanki-8266211a6</a>
 
