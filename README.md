@@ -14,12 +14,18 @@
 
 ---
 
-### 🧭 About me
-- ML Engineer / Researcher — **LLMs, RAG, federated learning, anomaly detection, MLOps**
-- I ship **production-grade** systems: FastAPI, Docker/Kubernetes, CI/CD, monitoring/observability
-- Currently: **M.S. CS @ UIC** (2024–2026)
+### 👨‍💻 About Me  
 
----
+Once upon a debug log… I started as a curious kid breaking things just to fix them again.  
+Now, I’m a **Machine Learning Engineer & Researcher** working on everything from **LLMs and federated learning** to building **production-grade ML pipelines** that actually survive in the wild.  
+
+By day, I’m pursuing my **M.S. in Computer Science at UIC (2024–2026)**, diving deep into AI systems, MLOps, and cloud-native deployments.  
+By night (and sometimes weekends), you’ll find me hacking on projects like **Converso (LLM Chatbot)** or **ChurnGuard (SaaS Prediction)**, pushing code with Docker and Kubernetes, or scribbling ideas for my next paper.  
+
+Outside the terminal? I’ve captained cricket teams, boxed at state level, and somehow convinced friends that I can cook 🍳 (still debatable).  
+
+Here’s to blending **research + engineering + a bit of fun** into everything I build 🚀  
+
 
 ### 🧰 Tech Stack
 **Languages:** Python · C++ · Java · SQL · C#  
