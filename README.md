@@ -9,27 +9,50 @@ Federated Learning • LLMs • Cloud-Native Systems • MLOps
 
 ## 👨‍💻 About Me
 I’m Neeraj, a Machine Learning Engineer specializing in **federated learning, LLMs, and cloud-native AI systems**.  
-Currently pursuing my **M.S. in Computer Science at UIC (2024–2026)**, I focus on **efficient distributed learning, anomaly detection, and scalable ML pipelines**.  
+Currently pursuing my **M.S. in Computer Science at UIC**, I bridge **research and real-world deployment** by building scalable, production-ready AI systems.  
 
-I’ve shipped production-grade systems at **Deloitte USI**, led cutting-edge **research at UIC**, and contributed to projects ranging from **LLM-powered chatbots** to **streaming fraud detection engines**. My work often bridges research and deployment, making AI both **innovative and reliable**.  
+I’ve shipped critical ML systems at **Deloitte**, conducted research on **communication-efficient federated learning** at **UIC**, and worked on production ML pipelines during my time at **Happiest Minds**.  
 
-Outside code and papers, I’ve captained cricket teams, competed in boxing, and won 2 national Rollball championships. 🏏🥊  
+Outside work, I’m also a cricket team captain, a two-time national Rollball champion, and a state-level boxer. 🏏🥊  
+
+---
+
+## 💼 Experience
+
+### University of Illinois at Chicago — *Machine Learning Researcher*  
+*Sep 2024 – Present, Chicago, IL*  
+- Designed **federated learning frameworks** with efficient updates (MSB–LSB, adaptive gradient freezing), cutting overhead by **80%**.  
+- Implemented **early-exit neural architectures** for adaptive inference on edge devices, improving energy efficiency while maintaining accuracy.  
+- Researched and deployed **Weightless Neural Networks (WNNs)** for healthcare and biosignal processing.  
+- Built **active learning modules** with uncertainty sampling, accelerating convergence under limited labels.  
+
+### Deloitte USI — *Machine Learning Engineer*  
+*Jan 2022 – Jul 2024, Mumbai, India*  
+- Designed and deployed **anomaly detection models** (Random Forest, Isolation Forest, Transformers) with **97% precision** in production.  
+- Built scalable **real-time ML pipelines** for log and behavior analytics, integrating **30+ data sources** and cutting latency by **40%**.  
+- Applied **AI-driven threat modeling and root-cause analysis** aligned with MITRE ATT&CK for improved fraud/security insights.  
+
+### Happiest Minds — *Machine Learning Intern*  
+*Mar 2021 – Jun 2022, Mumbai, India*  
+- Developed and deployed **ML models for anomaly detection and predictive analytics**, boosting reliability by **30%**.  
+- Built scalable **data pipelines and feature engineering workflows**, reducing model training time by **25%**.  
+- Integrated models into production with **REST APIs and Docker** for seamless scalability.  
 
 ---
 
 ## 🛠 Skills
-- **Programming:** Python, C++, Java, SQL  
-- **Machine Learning & AI:** Deep Learning, LLMs, Transformers, GANs, NLP, Model Optimization, Explainable AI  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, Pandas, NumPy  
-- **Cloud & Deployment:** AWS, Docker, Kubernetes, Jenkins, CI/CD, Cloud-Native Inference, Model Serving  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Programming:** Python • C++ • Java • SQL • C#  
+- **ML/AI:** Deep Learning • LLMs • Transformers • GANs • NLP • Model Optimization • Adversarial Robustness • Explainable AI  
+- **Frameworks:** PyTorch • TensorFlow • Keras • Scikit-learn • Hugging Face • Pandas • NumPy  
+- **Cloud/DevOps:** AWS • Azure • Docker • Kubernetes • Jenkins • CI/CD • Cloud-Native Inference • Model Serving  
+- **Databases:** MySQL • MongoDB • PostgreSQL  
 
 ---
 
 ## 🚀 Selected Projects
-- **Converso (LLM Chatbot Platform):** Built a production-grade chatbot (LangChain + OpenAI APIs + FAISS) deployed on AWS with Docker/Kubernetes, handling **50K+ daily queries with 99.9% uptime**.  
-- **RecoTrack (Real-Time Recommendation Engine):** Personalized recommendation system (XGBoost + collaborative filtering), improving CTR by **18%**, deployed via Flask REST APIs.  
-- **FraudShield (Transaction Monitoring):** Streaming fraud detection with **Kafka + PySpark + Random Forest**, achieving **95% accuracy** with sub-200ms latency in AWS.  
+- **Converso (LLM Chatbot Platform):** Production-grade chatbot (LangChain + OpenAI APIs + FAISS) deployed on AWS with Docker/Kubernetes, scaled to **50K+ daily queries** with 99.9% uptime.  
+- **RecoTrack (Real-Time Recommendation Engine):** Personalized recommendation engine (XGBoost + collaborative filtering), achieving an **18% CTR lift** and integrated with React front-end.  
+- **FraudShield (Transaction Monitoring):** Streaming fraud detection pipeline (Kafka + PySpark + Random Forest) with **95% accuracy** and sub-200ms response time in AWS.  
 
 ---
 
@@ -54,5 +77,3 @@ Outside code and papers, I’ve captained cricket teams, competed in boxing, and
 <p>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Solankineeraj03" />
 </p>
-
-
